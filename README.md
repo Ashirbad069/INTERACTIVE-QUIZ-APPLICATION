@@ -27,3 +27,6 @@ What’s particularly great about this project is its learning value. It’s ide
 
 In summary, this quiz app is more than just a small project—it’s a compact learning module wrapped in a practical, real-world interface. Whether used for personal growth, as part of a portfolio, or shared with friends to test their knowledge, it offers an enjoyable and educational experience. Its clean design, responsive feedback, and straightforward functionality make it a strong foundation for more complex projects like competitive quizzes, e-learning platforms, or educational games.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/101d4181-9905-47b5-b84a-586c501beea9)
