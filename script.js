@@ -9,12 +9,12 @@ const questions = [
         ]
     },
     {
-        question: "Which is large animal in the world?",
+        question: "What is the capital city of Japan?",
         answers: [
-            { text: "Shark", correct: false },
-            { text: "Blue whale", correct: true },
-            { text: "Elephant", correct: false },
-            { text: "Giraffe", correct: false },
+            { text: "Delhi", correct: false },
+            { text: "Tokyo", correct: true },
+            { text: "Dublin", correct: false },
+            { text: "Ottawa", correct: false },
         ]
     },
     {
